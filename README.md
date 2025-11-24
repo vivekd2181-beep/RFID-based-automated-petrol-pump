@@ -50,4 +50,5 @@ Users must scan their RFID card for authorization and then select an amount (₹
 ---
 
 ## 📌 Circuit Diagram
-(Add your circuit image here)
+![WhatsApp Image 2025-11-24 at 8 46 28 PM](https://github.com/user-attachments/assets/f3ae8bc0-29a3-4791-b0d4-5613a2d3edc8)
+
